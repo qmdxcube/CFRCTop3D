@@ -1,2 +1,2 @@
 # CFRCTop3D
-This repository will present an efficient and compact MATLAB code for 3D topology optimization of continuous fiber-reinforced composite structures with spatially varying fiber orientations and fiber volume fractions
+This repository presents an efficient and compact MATLAB code for 3D topology optimization of continuous fiber-reinforced composite structures with spatially varying fiber orientations and fiber volume fractions. The educational paper has been accepted for publication in the journal of Structural and Multidisciplinary Optimization and will be online soon. The theoretical fundamentals and extensions can be found in the educational paper.
